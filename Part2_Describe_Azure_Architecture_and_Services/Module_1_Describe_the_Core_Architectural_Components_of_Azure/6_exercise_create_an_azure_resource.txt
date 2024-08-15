@@ -2,7 +2,7 @@ Task 1: Create a virtual machine
 
 In this task, you’ll create a virtual machine using the Azure portal.
 
-    Sign in to the Azure portal.
+    Sign in to the Azure portal. https://portal.azure.com/#home
 
     Select Create a resource > Compute > Virtual Machine > Create.
 
