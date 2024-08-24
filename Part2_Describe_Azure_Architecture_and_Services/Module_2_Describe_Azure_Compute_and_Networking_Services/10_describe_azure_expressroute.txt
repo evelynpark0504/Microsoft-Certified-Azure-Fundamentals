@@ -44,6 +44,7 @@ ExpressRoute supports four models that you can use to connect your on-premises n
 Colocation at a cloud exchange
 
 Colocation refers to your datacenter, office, or other facility being physically colocated at a cloud exchange, such as an ISP. If your facility is colocated at a cloud exchange, you can request a virtual cross-connect to the Microsoft cloud.
+
 Point-to-point Ethernet connection
 
 Point-to-point ethernet connection refers to using a point-to-point connection to connect your facility to the Microsoft cloud.
